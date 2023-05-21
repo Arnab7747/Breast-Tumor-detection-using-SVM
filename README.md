@@ -1,4 +1,4 @@
-# Brest-Tumor-detection-using-SVM
+# Breast-Tumor-detection-using-SVM
 A Summary of the Data Preprocing Approach used here:
 assign features to a NumPy array X, and transform the class labels from their original string representation (M and B) into integers
 Split data into training and test sets
